@@ -24,3 +24,7 @@ wget https://github.com/0oVicero0/rpvideo/archive/master.zip
 		}
 	}
 ```
+```
+chown -R www-data:www-data /usr/share/nginx/www/player
+chmod -R 755 /usr/share/nginx/www
+```
