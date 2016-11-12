@@ -1,6 +1,6 @@
 # TestPHP
 ```
-apt-get install -y php5-common php5-cli php5-suhosin php5-cgi php5-fpm php5-curl php-apc
+apt-get install -y php5-common php5-cli php5-cgi php5-fpm php5-curl php-apc
 ```
 ```
 apt-get install -y p7zip-full
